@@ -1,0 +1,70 @@
+{
+    "produtos": [
+        {
+            "titulo": "Cabelo",
+            "descricao": "Cortes de Cabelos e outras variedades",
+            "foto": "img/cabelo.jpg",
+            "precos": [
+                {
+                    "tipo": "Navalhado",
+                    "valor": 20.00
+                },
+                {
+                    "tipo": "Degradê",
+                    "valor": 17.00
+                },
+                {
+                    "tipo": "Social",
+                    "valor": 13.00
+                },
+                {
+                    "tipo": "Desenho",
+                    "valor": 10.00
+                },
+                {
+                    "tipo": "Pigmentação",
+                    "valor": 10.00
+                },
+                {
+                    "tipo": "Luzes",
+                    "valor": 70.00
+                },
+                {
+                    "tipo": "Combo Navalhado",
+                    "valor": 35.00
+                }
+            ]
+        },
+        {
+            "titulo": "Sobrancelha",
+            "descricao": "Sobrancelha na navalha",
+            "foto": "img/sobrancelha.jpg",
+            "precos": [
+                {
+                    "tipo": "Sobrancelha",
+                    "valor": 5.00
+                },
+                {
+                    "tipo": "Sobrancelha CBL",
+                    "valor": 3.00
+                }
+            ]
+        },
+        {
+            "titulo": "Barba",
+            "descricao": "Pacotes de Barba",
+            "foto": "img/cabelo_barba.jpg",
+            "precos": [
+                {
+                    "tipo": "Barba",
+                    "valor": 15.00
+                },
+                {
+                    "tipo":"Desenho na Barba",
+                    "valor":17.00
+                }
+                
+            ]
+        }
+    ]
+}
