@@ -1,4 +1,4 @@
-<img
+
 # Barbearia
 Barbearia Guedes
 
