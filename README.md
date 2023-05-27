@@ -1,3 +1,4 @@
+<img
 # Barbearia
 Barbearia Guedes
 
@@ -11,4 +12,4 @@ JS
 JSON
 PHP
 
-LICENSE
+
